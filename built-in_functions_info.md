@@ -18,4 +18,4 @@
 | `super()` | `tuple()` | `type()` | `vars()` | `zip()` |
 | `__import__()` | | | | |
 
-### Total: 71 built-in functions**
+### Total: 71 built-in functions
