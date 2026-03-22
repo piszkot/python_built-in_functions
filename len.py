@@ -27,7 +27,7 @@ class CustomClass:
 
 
 x = CustomClass()
-print(len(CustomClass()))  # 42
+print(len(x))  # 42
 
 
 # -----------------------------
